@@ -8,3 +8,11 @@ p {
     font-family: verdana;
     font-size: 20px;
 }
+h2 {
+     color: blue;
+    text-align: center;
+}
+h3 {
+     color: pink ;
+    text-align: center;
+}
